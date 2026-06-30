@@ -1,0 +1,122 @@
+{
+  "today": "2026-06-30",
+  "month": "2026-06",
+  "events_pending": [
+    {
+      "name": "samanthe witkin",
+      "date": "2026-06-25",
+      "deal": 8822.0,
+      "owed": 6817.0
+    }
+  ],
+  "lessons_pending": [
+    {
+      "student": "דנה מלטיס",
+      "count": 6,
+      "amount": 1200.0
+    },
+    {
+      "student": "מטר וינר",
+      "count": 3,
+      "amount": 900.0
+    },
+    {
+      "student": "הדס אליה",
+      "count": 3,
+      "amount": 690.0
+    },
+    {
+      "student": "הודיה קרימלובסקי",
+      "count": 5,
+      "amount": 675.0
+    },
+    {
+      "student": "לבונה יוגב",
+      "count": 4,
+      "amount": 540.0
+    },
+    {
+      "student": "שיר בראף",
+      "count": 3,
+      "amount": 405.0
+    },
+    {
+      "student": "יפה קופפרברג",
+      "count": 3,
+      "amount": 405.0
+    },
+    {
+      "student": "ליאל גולדשטיין",
+      "count": 3,
+      "amount": 405.0
+    },
+    {
+      "student": "הודיה מאיר",
+      "count": 3,
+      "amount": 405.0
+    },
+    {
+      "student": "שקד רוזנפלד",
+      "count": 3,
+      "amount": 405.0
+    },
+    {
+      "student": "נועם קולמן",
+      "count": 2,
+      "amount": 340.0
+    },
+    {
+      "student": "תהילה שניידר",
+      "count": 2,
+      "amount": 310.0
+    },
+    {
+      "student": "מעיין בן עוליאל",
+      "count": 2,
+      "amount": 270.0
+    },
+    {
+      "student": "טליה דסה",
+      "count": 2,
+      "amount": 270.0
+    },
+    {
+      "student": "שירה שמח",
+      "count": 1,
+      "amount": 250.0
+    },
+    {
+      "student": "בת שבע",
+      "count": 1,
+      "amount": 250.0
+    },
+    {
+      "student": "ציפורה",
+      "count": 1,
+      "amount": 250.0
+    },
+    {
+      "student": "נועה לקס",
+      "count": 1,
+      "amount": 200.0
+    },
+    {
+      "student": "רבקה מרקוס",
+      "count": 1,
+      "amount": 170.0
+    }
+  ],
+  "owed_total": 15157.0,
+  "lessons_no_receipt": 4,
+  "events_no_receipt": [],
+  "expenses_by_cat": {
+    "עסקי מוכר": 10104.0,
+    "מעורב": 4865.82,
+    "פרטי": 997.7699999999999,
+    "טרם יודע": 267.0
+  },
+  "expenses_total": 16234.59,
+  "cache_date": "2026-06-30",
+  "messages": [],
+  "generated_at": "2026-06-30"
+}
